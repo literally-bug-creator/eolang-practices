@@ -28,7 +28,7 @@ EO is an experimental object-oriented programming language that aims to provide 
 - [ ] Basic object creation and composition
 - [ ] Working with primitive data types
 - [ ] Understanding decorators and atoms
-- [ ] Building simple applications
+- [ ] Fix [game-of-life](https://github.com/objectionary/game-of-life)
 - [ ] Advanced φ-calculus concepts
 
 ## 🤝 Contributing
